@@ -1,0 +1,32 @@
+table{
+	text-align: center;
+	width: 70%;
+	margin-bottom : .5em;
+    table-layout: fixed;
+    margin-top: 10px;
+    padding: 50px;
+    
+
+}
+
+td, th {
+	padding: .7em;
+	margin: 0;
+	border: 1px solid #ccc;
+	text-align: center;
+}
+
+th{
+	font-weight: bold;
+	background-color: #EEE;
+}
+
+#cadastrar-prod{
+	color: #555;
+	display: inline;
+	margin-bottom: .2em;
+	text-align: center; 
+}
+#cadastre{
+	width: 70%;
+}
